@@ -7,4 +7,4 @@ I've lost my emo.
 * 3+ assets
   * Logo
   * Click to stream our album (rickroll)
-  * 
+  * Band picture before bios
